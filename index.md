@@ -1,28 +1,30 @@
 ## Welcome to GitHub Pages
 
-I want to share useful programming link here: 
-let start with this: 
+### ROADMAP to be Website Developer
+
+I want to share useful programming link here by Adnan Ahmed (frontend, backend and DevOps roadmap) and Igor Kantor (DevOps roadmap). 
 
 1) Developer Roadmap
-if you want to know what you need to learn to be:
+we can split Website developer into 3 big categories:
+```markdown
 Front-end developer
 Back-end developer
 DevOps Developer
-
+```
 this map really useful, please take a look:
-https://github.com/kamranahmedse/developer-roadmap
+[Link]https://github.com/kamranahmedse/developer-roadmap
 
-2) Front-end Developer
+### Front-end Developer
 additional explanation of the link above for front-end developer
-https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+[Link]https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
 
-3) Back-end Developer
+### Back-end Developer
 additional explanation of the link above for back-end developer
-https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+[Link]https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
 
-4) DevOps Developer
+### DevOps Developer
 if you're focus on to be DevOps Developer this guide will really help:
-https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
+[Link]https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 
 
 =================================
