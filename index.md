@@ -4,8 +4,8 @@
 
 I want to share useful programming link here by Adnan Ahmed (frontend, backend and DevOps roadmap) and Igor Kantor (DevOps roadmap). 
 
-1) Developer Roadmap
-we can split Website developer into 3 big categories:
+We can split Website developer into 3 big categories:
+
 ```markdown
 Front-end developer
 Back-end developer
