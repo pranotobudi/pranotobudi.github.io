@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## ROADMAP to be a Website Developer
 
 I want to share useful programming link here by Adnan Ahmed (frontend, backend and DevOps roadmap) and Igor Kantor (DevOps roadmap). 
