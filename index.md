@@ -12,27 +12,27 @@ Back-end developer
 DevOps Developer
 ```
 this map really useful, please take a look:
-```markdown
+
 [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-```
+
 
 ### Front-end Developer
 additional explanation of the link above for front-end developer
-```markdown
+
 [https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
-```
+
 
 ### Back-end Developer
 additional explanation of the link above for back-end developer
-```markdown
+
 [https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
-```
+
 
 ### DevOps Developer
 if you're focus on to be DevOps Developer this guide will really help:
-```markdown
+
 [https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-```
+
 
 END
 
