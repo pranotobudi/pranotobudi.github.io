@@ -1,5 +1,35 @@
 ## Welcome to GitHub Pages
 
+I want to share useful programming link here: 
+let start with this: 
+
+1) Developer Roadmap
+if you want to know what you need to learn to be:
+Front-end developer
+Back-end developer
+DevOps Developer
+
+this map really useful, please take a look:
+https://github.com/kamranahmedse/developer-roadmap
+
+2) Front-end Developer
+additional explanation of the link above for front-end developer
+https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+
+3) Back-end Developer
+additional explanation of the link above for back-end developer
+https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+
+4) DevOps Developer
+if you're focus on to be DevOps Developer this guide will really help:
+https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
+
+
+=================================
+END
+
+text below is generated text from github:
+
 You can use the [editor on GitHub](https://github.com/pranotobudi/pranotobudi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
